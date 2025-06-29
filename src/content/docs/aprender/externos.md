@@ -1,5 +1,5 @@
 ---
-title: Documentación
+title: Documentación externa
 description: 'Contenido básico para aprender, como: html, css y js'
 ---
 
