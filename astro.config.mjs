@@ -30,6 +30,9 @@ export default defineConfig({
 					autogenerate: { directory: 'js' }
 				},
 			],
+			customCss: [
+				'./src/css/base.css'
+			]
 		}),
 	],
 });

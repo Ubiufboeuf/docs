@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Poppins';
+  src:
+    local('Poppins'),
+    url('/public/Poppins.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Inter';
+  src:
+    local('Inter'),
+    url('/public/Inter.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'CascadiaCode';
+  src:
+    local('CascadiaCode'), local('Cascadia Code'),
+    url('/CascadiaCode.woff2') format('woff2');
+}
+
+* {
+  font-family: 'CascadiaCode', 'Cascadia Code', 'CaskaydiaCove Nerd Font';
+}
+
+*:not(pre, code, .code, pre *) {
+  font-family: Inter, Poppins;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-wrap: balance;
+}
+
+p {
+  text-wrap: pretty;
+}
