@@ -10,12 +10,24 @@ export default defineConfig({
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/Ubiufboeuf/docs' }],
 			sidebar: [
 				{
-					label: 'Aprendizaje',
+					label: 'Aprender',
 					autogenerate: { directory: 'aprender' }
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Glosario',
+					autogenerate: { directory: 'glosario' }
+				},
+				{
+					label: 'HTML',
+					autogenerate: { directory: 'html' }
+				},
+				{
+					label: 'CSS',
+					autogenerate: { directory: 'css' }
+				},
+				{
+					label: 'JavaScript',
+					autogenerate: { directory: 'js' }
 				},
 			],
 		}),
