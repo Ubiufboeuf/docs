@@ -36,4 +36,9 @@ h4 {
 
 p {
   text-wrap: pretty;
+  margin: 0;
+}
+
+ul {
+  margin: 4px 0 8px;
 }
