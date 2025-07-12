@@ -24,6 +24,6 @@ Recomendado:
 [Importar fuentes en CSS](/vanilla/css)
 
 ## Referencias
-- [MDN | link - HTML (es)](https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/link)
-- [MDN | &lt;link&gt; (en-US)](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link)
+- [link - HTML (es) | MDN](https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/link)
+- [&lt;link&gt; (en-US) | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link)
 - [Gemini](https://gemini.google.com/)

@@ -32,9 +32,9 @@ console.log(miContador1()); // Salida: 3 (miContador1 sigue aumentando su propio
 console.log(miContador2()); // Salida: 2 (miContador2 sigue aumentando el suyo)
 ```
 
-El return no es estrictamente necesario para la closure, simplemente se usa para hacerlo más visual en el ejemplo.
+El return no es estrictamente necesario para el closure, pero sin él el closure es inservible, o al menos no se puede aprovechar.
 
-Ahora, el return de la función anónima, junto a las variables que guardan el "valor" o más bien el estado de la función crearContador es lo que permite manejar ese estado, y eso es gracias a la closure.
+El closure es lo que permite que esa función anónima dentro de `crearContador` "recuerde" el estado de `conteo` incluso después de ser ejecutada la función `crearContador`.
 
 Como miContador1 y miContador2 se declaran y no dependen de la otra de ninguna forma guardan estados diferentes, por eso los logs muestran valores diferentes.
 

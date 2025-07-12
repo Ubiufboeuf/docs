@@ -15,4 +15,4 @@ Actualmente ha avanzado tanto que tiene [funciones](https://developer.mozilla.or
 
 ## ¿Cómo usar CSS?
 
-Pues contando sólo en la web (lo puedes usar hasta en Linux para Hyprland, por ejemplo), puedes o importarlo con un [&lt;link&gt;](/html/link), crear directamente los estilos en un [&lt;style&gt;](/html/style), crear [estilos en línea](/html/estilos-en-línea) o usar [JavaScript para crear estilos](/js/estilos).
+Pues contando sólo en la web (lo puedes usar hasta en Linux para Hyprland, por ejemplo), puedes o importarlo con un [&lt;link&gt;](/html/link), crear directamente los estilos en un [&lt;style&gt;](/html/style), crear [estilos en línea](/html/estilos-en-linea) o usar [JavaScript para crear estilos](/js/estilos).

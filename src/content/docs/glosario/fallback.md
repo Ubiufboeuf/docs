@@ -29,7 +29,7 @@ Como todos los navegadores, o prácticamente todos soportan la propiedad `color`
 
 ## Ejemplo en JavaScript
 Un buen ejemplo de fallbacks en JavaScript son los [polyfill](/glosario/polyfill), código que le permite a navegadores usar una funcionalidad que no tienen.
-Otra serían los valores por defecto de los [parámetros de una función](/js/parámetros):
+Otra serían los valores por defecto de los [parámetros de una función](/js/parametros):
 
 ```javascript
 function suma (x = 0, y = 0) {
@@ -49,7 +49,7 @@ Para aprovechar el valor por defecto o fallback del parámetro `x` se debería p
 suma(undefined, 5) // 0 + 5
 ```
 
-## Recomendado ver
+## Te puede interesar
 - ["light-dark()" | Can I use](https://caniuse.com/?search=light-dark())
 - [light-dark() - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/light-dark)
-- [polyfill en javascript](/glosario/polyfill)
+- [polyfill | dw](/glosario/polyfill)
