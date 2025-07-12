@@ -7,7 +7,7 @@ Lugares recomendados para conseguir buena documentación, detalles, trucos, info
 
 ## General
 Para comenzar tranqui
-- [MDN Web Docs](https://www.youtube.com) 
+- [MDN Web Docs](https://www.youtube.com) (la documentación en inglés es mucho más completa)
 - [Manz.dev](https://manz.dev/) (incluye bibliotecas)
 - [web.dev](https://web.dev/)
 - [Chrome for Developers](https://developer.chrome.com/docs)
@@ -31,9 +31,9 @@ Frameworks y Bibliotecas
 
 ## HTML, CSS y JavaScript
 - MDN Web Docs
-  - [MDN Web Docs - HTML](https://developer.mozilla.org/es/docs/Learn_web_development/Core/Structuring_content)
-  - [MDN Web Docs - CSS](https://developer.mozilla.org/es/docs/Learn_web_development/Core/Styling_basics)
-  - [MDN Web Docs - JS](https://developer.mozilla.org/es/docs/Learn_web_development/Core/Scripting)
+  - [Estructurando la web con HTML - Aprende desarrollo web | MDN](https://developer.mozilla.org/es/docs/Learn_web_development/Core/Structuring_content)
+  - [Bloques de construcción CSS - Aprende desarrollo web | MDN](https://developer.mozilla.org/es/docs/Learn_web_development/Core/Styling_basics)
+  - [Elementos básicos de JavaScript - Aprende desarrollo web | MDN](https://developer.mozilla.org/es/docs/Learn_web_development/Core/Scripting)
 - Manz.dev
   - [Lenguaje HTML](https://lenguajehtml.com/html/)
   - [Lenguaje CSS](https://lenguajecss.com/css/)
@@ -49,7 +49,7 @@ No sé con qué criterio separan esto, pero van desde información directamente 
 - [MDN Web Docs Accesibilidad](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - [TypeScript](https://www.typescriptlang.org/docs/handbook/utility-types.html) Desde esa página en adelante en **Reference**
 
-## Midulive
+## Midulive / Midudev
 - HTML
   - [HTML Desde Cero](https://www.youtube.com/watch?v=3nYLTiY5skU)
 - CSS
@@ -57,23 +57,27 @@ No sé con qué criterio separan esto, pero van desde información directamente 
   - [Flexbox](https://www.youtube.com/watch?v=PSwlAuRbv_A)
   - [Grid](https://www.youtube.com/watch?v=iTjkiI8QQsM)
   - [Animaciones y Transiciones](https://www.youtube.com/watch?v=RwjgfNX41TE)
-  - ["Novedades" de CSS](https://www.youtube.com/watch?v=4Ke32mrb2qo):
-    - [Centrar verticalmente sin Grid o Flexbox](https://www.youtube.com/watch?v=4Ke32mrb2qo)
-    - [Altura de textarea según el contenido](https://www.youtube.com/watch?v=4Ke32mrb2qo&t=57s)
-    - [Temas light/dark con CSS Nativo](https://www.youtube.com/watch?v=4Ke32mrb2qo&t=363s)
-  - [Animar display: none](https://www.youtube.com/watch?v=WDcbnOP-MIo)
-  - [Altura de textarea según el contenido (este es otro video)](https://www.youtube.com/watch?v=8aryHZ8Z9WY)
+  <!-- - ["Novedades" de CSS](https://www.youtube.com/watch?v=4Ke32mrb2qo): -->
+  <!-- - [Animar display: none](https://www.youtube.com/watch?v=WDcbnOP-MIo) -->
 - JavaScript
   - [JS Desde Cero](https://www.youtube.com/watch?v=Z34BF9PCfYg)
   - [¿Qué es un callback?](https://www.youtube.com/watch?v=kjCH7vvISsE)
   - [Callbacks vs Promesas](https://www.youtube.com/watch?v=frm0CHyeSbE)
-  - [¿Qué es this?](https://www.youtube.com/watch?v=byirHCoSPFY)
+  <!-- - [¿Qué es this?](https://www.youtube.com/watch?v=byirHCoSPFY) -->
 - TypeScript
   - [TypeScript de Novato a Ninja (1/2)](https://www.youtube.com/watch?v=fUgxxhI_bvc)
   - [TypeScript de Novato a Ninja (2/2)](https://www.youtube.com/watch?v=L1ZSk-vPVKI)
-  - [Alternativa nueva a "paths" de TS para imports](https://www.youtube.com/watch?v=6lzBJ0vP6ZQ)
+  <!-- - [Alternativa nueva a "paths" de TS para imports](https://www.youtube.com/watch?v=6lzBJ0vP6ZQ) -->
+- Astro
+  - [Curso Astro 5 Desde Cero](https://www.youtube.com/watch?v=WHqZAXHZN_w)
+  - [Clon de Spotify con Astro](https://www.youtube.com/watch?v=WRc8lz-bp78)
+- React
+  - [Curso de React desde Cero - Playlist de 12 videos](https://www.youtube.com/watch?v=7iobxzd_2wY&list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29)
+- Tailwind
+  - [Curso de Tailwind 4 Desde Cero](https://www.youtube.com/watch?v=R5EXap3vNDA)
 
-Hay muchos más videos, pero si pongo todos se haría un poco innecesariamente largo.
+<br>
+Hay muchos más videos, pero estos son de los más importantes para el proyecto.
 
 ## Retos y Ejercicios
 Lógica de programación
