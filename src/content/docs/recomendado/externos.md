@@ -69,6 +69,7 @@ No sé con qué criterio separan esto, pero van desde información directamente 
   - [TypeScript de Novato a Ninja (2/2)](https://www.youtube.com/watch?v=L1ZSk-vPVKI)
   <!-- - [Alternativa nueva a "paths" de TS para imports](https://www.youtube.com/watch?v=6lzBJ0vP6ZQ) -->
 - Astro
+  - [Curso Astro 3 Desde Cero](https://www.youtube.com/watch?v=RB5tR_nqUEw) <- aunque sea de una versión anterior, la mayoría de cosas siguen siendo útiles.
   - [Curso Astro 5 Desde Cero](https://www.youtube.com/watch?v=WHqZAXHZN_w)
   - [Clon de Spotify con Astro](https://www.youtube.com/watch?v=WRc8lz-bp78)
 - React
