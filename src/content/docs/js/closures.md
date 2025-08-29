@@ -32,7 +32,7 @@ console.log(miContador1()); // Salida: 3 (miContador1 sigue aumentando su propio
 console.log(miContador2()); // Salida: 2 (miContador2 sigue aumentando el suyo)
 ```
 
-El return no es estrictamente necesario para el closure, pero sin él el closure es inservible, o al menos no se puede aprovechar.
+El return no es estrictamente necesario para el closure, pero sin él el closure seguramente quede inservible para la mayoría de casos.
 
 El closure es lo que permite que esa función anónima dentro de `crearContador` "recuerde" el estado de `conteo` incluso después de ser ejecutada la función `crearContador`.
 
