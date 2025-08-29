@@ -43,10 +43,11 @@ suma(8, 1) // 9
 ```
 
 `suma(, 5)` no da error por los fallback, es simplemente una sintáxis inválida.
-Para aprovechar el valor por defecto o fallback del parámetro `x` se debería pasar `undefined`:
+Para aprovechar el valor por defecto / fallback del parámetro `x` se debería pasar un valor nullish, `null` o `undefined`:
 
 ```javascript
 suma(undefined, 5) // 0 + 5
+suma(null, 5) // 0 + 5
 ```
 
 ## Te puede interesar
